@@ -1,0 +1,25 @@
+{
+  "name": "request-header-parser",
+  "version": "0.1.0",
+  "description": "http://www.freecodecamp.com/challenges/request-header-parser-microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noinkling/fcc-request-header-parser.git"
+  },
+  "author": "noinkling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noinkling/fcc-request-header-parser/issues"
+  },
+  "homepage": "https://github.com/noinkling/fcc-request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-useragent": "^0.2.4",
+    "jade": "^1.11.0",
+    "marked": "^0.3.5"
+  }
+}
